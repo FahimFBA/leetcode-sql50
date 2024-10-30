@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleetcode_sql_50=self.webpackChunkleetcode_sql_50||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/leetcode-sql50/blog","blogTitle":"Blog","authorsListPath":"/leetcode-sql50/blog/authors"}')}}]);
